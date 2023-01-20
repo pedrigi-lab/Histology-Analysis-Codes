@@ -1,2 +1,2 @@
-# Flow_Paper_AnalysisCodes
-Contains the codes used to analyze histology data for the normal blood flow causes atherosclerosis regression paper
+# MATLAB software to manually segment histology sections of atherosclerotic arteries and quantify stain
+This software quantifies plaque stain concentrations within atherosclerotic arterial cross-sections of mice. The input is TIF image files of microscopy images of arterial sections. The program automatically loops through all images in the designated directory and can be setup to loop through all mice in the dataset.

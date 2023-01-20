@@ -1,2 +1,2 @@
-# MATLAB software to manually segment histology sections of atherosclerotic arteries and quantify stain
+# MATLAB and ImageJ codes to threshold, manually segment, and quantify the stain of histology sections of atherosclerotic arteries
 This software quantifies plaque stain concentrations within atherosclerotic arterial cross-sections of mice. The input is TIF image files of microscopy images of arterial sections. The program automatically loops through all images in the designated directory and can be setup to loop through all mice in the dataset.
